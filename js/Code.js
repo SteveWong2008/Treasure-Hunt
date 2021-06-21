@@ -14,11 +14,11 @@ function clues() {
     textSize(15)
     text("A T A D A S B A", 100,300)
     fill("lightblue")
-    text("Hint: Always changing, not constant !!", 100,320)  
+    text("Hint: Stores Information!!", 100,320)  
     fill("white")
     textSize(15)
     text("C U T N I F O N", 700,150)
     fill("lightblue")
-    text("Hint: Always changing, not constant !!", 700,170)  
+    text("Performs a Particular Task!!", 700,170)  
 
 }
